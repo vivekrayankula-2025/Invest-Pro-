@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 340">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a2636"/><stop offset="1" stop-color="#124357"/></linearGradient>
+</defs>
+<rect width="800" height="340" fill="url(#bg)"/>
+<g transform="rotate(-90 240 170)" fill="none" stroke-width="44" stroke-linecap="butt">
+<circle cx="240" cy="170" r="92" stroke="#16b9c7" stroke-dasharray="260 578"/>
+<circle cx="240" cy="170" r="92" stroke="#6ee7f2" stroke-dasharray="145 578" stroke-dashoffset="-268"/>
+<circle cx="240" cy="170" r="92" stroke="#2a7f93" stroke-dasharray="96 578" stroke-dashoffset="-421"/>
+<circle cx="240" cy="170" r="92" stroke="#46b879" stroke-dasharray="49 578" stroke-dashoffset="-525"/>
+</g>
+<circle cx="240" cy="170" r="52" fill="#0a2636"/>
+<g>
+<rect x="450" y="88" width="260" height="22" rx="11" fill="#16b9c7"/>
+<rect x="450" y="138" width="180" height="22" rx="11" fill="#6ee7f2"/>
+<rect x="450" y="188" width="120" height="22" rx="11" fill="#2a7f93"/>
+<rect x="450" y="238" width="70" height="22" rx="11" fill="#46b879"/>
+</g>
+</svg>
